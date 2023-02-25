@@ -2,9 +2,9 @@
 ## Description
 Refactored the HTML, CSS followed event number method. HTML elements are changed to symantic elements. CSS file is properly commented for each individual element.
 ## User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+### AS A developer
+### I WANT a codebase that follows accessibility standards
+### SO THAT our own site is optimized for search engines
 ## Acceptance Criteria
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
