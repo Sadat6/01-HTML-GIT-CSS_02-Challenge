@@ -1,4 +1,4 @@
-# 01 Website
+# Website
 ## Description
 This website is specially designed to have a beautiful Landing Page to showcase owner's business digitally.
 ## WHAT
