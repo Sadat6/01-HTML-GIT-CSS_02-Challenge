@@ -3,9 +3,10 @@
 Refactored the HTML, CSS followed event number method. HTML elements are changed to symantic elements. CSS file is properly commented for each individual element.
 ## User Story
 <p> AS A developer </p>
-<p>I WANT a codebase that follows accessibility standards</P>
-<p>SO THAT our own site is optimized for search engines</p>
-## Acceptance Criteria
+<p>I WANT a codebase that follows accessibility standards
+  <br>
+SO THAT our own site is optimized for search engines</p>
+<h1> Acceptance Criteria</h1>
 <p>
 GIVEN a webpage meets accessibility standards
   <br>
