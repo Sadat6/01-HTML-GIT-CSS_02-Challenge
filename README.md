@@ -1,6 +1,9 @@
-# Website
+# Horiseon
 ## Description
 To refactor an existing site to make it more accessible.
+
+![website](./assets/images/website.png)
+[To visit the Horiseon website, please Click here...](https://sadat6.github.io/01-HTML-GIT-CSS_02-Challenge/)
 
 ## Motivation
 To meet accessibility standards.
